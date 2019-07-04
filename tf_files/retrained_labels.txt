@@ -1,2 +1,2 @@
-with glasses
-without glasses
+man
+woman
